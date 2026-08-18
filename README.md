@@ -501,19 +501,3 @@ python main.py --log-level DEBUG
 | **Security Awareness** | PII identification and systematic removal |
 
 ---
-
-## License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
-Copyright (c) 2026 Abir Barman
-
----
-
-<div align="center">
-
-**Built as a portfolio project demonstrating production-grade analytics engineering.**
-
-*If you found this useful, consider starring the repository!*
-
-</div>
